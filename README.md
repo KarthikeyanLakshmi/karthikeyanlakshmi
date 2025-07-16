@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Karthikeyan Lakshmi Narayanan and i am a computer science Under graduate interested in all things python, machine learning and data science.
+
+- 🔭 I’m currently working on a ETL project to analyse social media influence.
+- 🌱 Check out the full stack project i have worked on [here](https://github.com/KarthikeyanLakshmi/employee_management_system).
 <!--
 **KarthikeyanLakshmi/karthikeyanlakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
