@@ -4,6 +4,9 @@ I am Karthikeyan Lakshmi Narayanan, a computer science under graduate interested
 
 - 🔭 I’m currently working on a ETL project to analyse social media influence.
 - 🌱 Check out the full stack project I have worked on [here](https://github.com/KarthikeyanLakshmi/employee_management_system).
+  - Angular
+  - Spring Boot
+  - MySQL
 <!--
 **KarthikeyanLakshmi/karthikeyanlakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
